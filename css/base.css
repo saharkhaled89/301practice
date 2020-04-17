@@ -34,6 +34,52 @@ main{
 } 
 
 
+/* #form{
+padding-top: 20px;
+margin-bottom: 100px; */
+
+
+/* }  */
+
+
+
+h2{
+    color:white;
+    padding-top: 20px;
+    font-size: 24px;
+    width: auto;
+    margin-bottom: 10px;
+   
+   
+    
+}
+
+
+#thesearchbox{
+    width: auto;
+    height: 50px;
+    color:white;
+    background-color:white;
+    font-size: 16px;
+    border-radius: 20px;
+    margin-top: -30px;
+  
+    
+ 
+   
+}
+
+#button{
+
+    width: auto;
+    height: 50px;
+    color:white;
+    background-color: darkred;
+    font-size: 24px;
+    border-radius: 20px;
+   
+}
+
 
 
   
